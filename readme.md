@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Marcos Eduardo Winiarski, seja muito bem vindo !</h1>
-<h3 align="center">Desenvolvedor frontend, sempre aprontando algo louco por ae.</h3>
+<h1>Olá 👋, meu nome é Marcos Eduardo Winiarski, seja muito bem vindo !</h1>
+<h3>Desenvolvedor frontend, sempre aprontando algo louco por ae.</h3>
 
 - 🔭 Atualmente trabalho para a [Ambev Tech](https://ambevtech.com.br/)
 
