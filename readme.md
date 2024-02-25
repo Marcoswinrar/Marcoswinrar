@@ -2,6 +2,6 @@
 
 - 🔧 Desenvolvedor front end apaixonado por testes e performance.
 - 🚀 Entusiasta em js e suas tecnologias.
-- 📝 Escrevo sobre desenvolvimento e dia a dia do dev no [Meu blog](https://marcoswinrar.com)
+- 📝 Escrevo sobre desenvolvimento e dia a dia do dev no [Meu blog](https://marcoswiniarski.com)
 - 📫 Caso queira me contatar **marcoswinrar@gmail.com**
 
